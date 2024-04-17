@@ -14,16 +14,8 @@ img {
         background-size: cover;
     
     }
-    .botão{
-        background-color: rgb(255, 0, 128) rgb(241, 123, 192);
-        color:rgb(255, 127, 144);
-        border;:none;
-        padding: 10px 20px;
-        cursor: pointer;
-        transition: 0.3s aese;
-    }
-    .botao:hover{
-        background-color: rgb(255, 0, 128);
+    
+    
     }
     .cabecalho{
        background-color: rgb(255, 127, 159);
